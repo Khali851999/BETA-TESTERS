@@ -1,4 +1,4 @@
-# BETA-TESTERS
+# Medly (BETA-TESTERS)
 This project showcases the journey of Medicine on blockchain.
 
 Zeit Challenge: https://hack2ui-ujvm3e1tg.now.sh
